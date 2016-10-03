@@ -43,7 +43,7 @@
     </properties>
 
     <dependencies>
-        <!-- LDAP -->
+        <!-- LDAP 
         <dependency>
             <groupId>org.fuse.usecase4</groupId>
             <artifactId>ldap</artifactId>
@@ -55,6 +55,7 @@
                 </exclusion>
             </exclusions>
         </dependency>
+	-->
 
         <!-- Camel -->
         <dependency>
